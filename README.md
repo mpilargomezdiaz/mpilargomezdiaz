@@ -48,6 +48,8 @@
 
 :sun_with_face: Para acceder rápidamente a todos mis trabajos, [haz clic aquí](https://github.com/mpilargomezdiaz/PrimerosPasos.git). Serás redirigido a mi repositorio "Primeros Pasos", donde encontrarás un índice organizado para explorar fácilmente todos mis proyectos y ejercicios realizados.
 
+:seedling: Si deseas ver directamente una muestra de mi evolución en tecnologías como React, Node.js, MongoDB y MySQL —donde se reflejan mis avances y mejoras a lo largo del curso— haz clic en el siguiente enlace para acceder a mis proyectos más avanzados: [Proyectos Avanzados](https://github.com/mpilargomezdiaz/PrimerosPasos/blob/main/repositorios.md).
+
 ## 📌 Formación Académica  
 
 ### 💻 Desarrollo de Aplicaciones Web  
