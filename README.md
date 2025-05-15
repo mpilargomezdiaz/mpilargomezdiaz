@@ -44,6 +44,15 @@
 ![MVC](https://img.shields.io/badge/MVC-%23007ACC.svg?style=for-the-badge&logo=architecture&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/SCRUM-%2300ADD8.svg?style=for-the-badge&logo=agile&logoColor=white)
 
+## 🌱 En proceso de aprendizaje  
+
+¡Nunca dejo de aprender! Actualmente estoy profundizando en estas tecnologías:
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+
 ## :star2: Índice de ejercicios y proyectos :star2:
 
 :sun_with_face: Para acceder rápidamente a todos mis trabajos, [haz clic aquí](https://github.com/mpilargomezdiaz/PrimerosPasos.git). Serás redirigido a mi repositorio "Primeros Pasos", donde encontrarás un índice organizado para explorar fácilmente todos mis proyectos y ejercicios realizados.
