@@ -23,6 +23,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%234EAFEE.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![CORS](https://img.shields.io/badge/CORS-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ### 🟢 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,6 +32,40 @@
 ### 🧠 Artificial Intelligence & Data  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%235C2D91.svg?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23007ACC.svg?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%234B8BBE.svg?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-%237952B3.svg?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-%23339933.svg?style=for-the-badge)
+
+#### 🤖 AI & Machine Learning  
+
+**Machine Learning:** clasificación, regresión, clustering, segmentación, KNN, Random Forest, K-Means, AutoML y aprendizaje por refuerzo.
+
+**Deep Learning:** Perceptrón, Adaline, MLP, backpropagation, ReLU, Dropout, Early Stopping, SGD, redes neuronales especializadas en imágenes y datos temporales, autoencoders y modelos generativos modernos.
+
+**Computer Vision:** segmentación de imágenes, redes neuronales especializadas en imágenes y YOLO.
+
+**Natural Language Processing & Generative AI:** Transformers, LLMs y uso de la librería de OpenAI.
+
+**Data Processing & Evaluation:** normalización de datos, compensación de clases en clasificación, división de datos en train, validation y test, accuracy, recall, coeficiente R² y MSE.
+
+**Time Series:** análisis de series temporales, estacionalidad y arquitectura secuencial.
+
+**MLOps:** fundamentos de MLOps y ciclo de desarrollo y evaluación de modelos.
+
+#### 🔎 Search, Optimization & Planning  
+
+Algoritmos A*, IDA*, búsqueda en profundidad, Hill Climbing, algoritmos genéticos, SAT y planificación automática con PDDL.
+
+#### 🕸️ Big Data  
+
+Fundamentos de Big Data y procesamiento de datos.
 
 ### 🎮 Game Development  
 ![Unity3D](https://img.shields.io/badge/Unity3D-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -75,10 +110,16 @@ Actualmente profundizando en **Inteligencia Artificial y sus aplicaciones práct
 
 ### 💻 Desarrollo de Aplicaciones Web  
 **IFCD0210** – Desarrollo de aplicaciones con tecnología web.  
+
 **IFCD0021** – Desarrollo Full Stack con **Spring Boot y Angular**.  
 
+### 🎓 Formación Profesional  
+**Grado Superior en Desarrollo de Aplicaciones Web (DAW)** – **1.º curso, actualmente cursando**.
+
 ### 🧠 Inteligencia Artificial  
-**IFCD107** – Especialista en Inteligencia Artificial *(en curso)*.  
+**IFCD107** – Especialista en Inteligencia Artificial.  
+
+**Formación completada:** algoritmos de búsqueda, algoritmos genéticos, SAT, planificación con PDDL, Machine Learning, clasificación, regresión, clustering, segmentación, A*, IDA*, búsqueda en profundidad, Hill Climbing, Random Forest, K-Means, KNN, Backpropagation, Scikit-learn, TensorFlow, NumPy, Pandas, redes neuronales, Perceptrón, Adaline, MLP, normalización de datos, compensación de clases, train/validation/test, accuracy, recall, R², autoencoders, modelos generativos, Transformers, LLMs, Big Data, AutoML, Dropout, ReLU, Early Stopping, Flatten, desvanecimiento del gradiente, análisis de series temporales, YOLO, librería de OpenAI, MLOps, MSE, aprendizaje por refuerzo y SGD.
 
 ### 🎮 Desarrollo de Videojuegos  
 Curso de desarrollo de videojuegos y realidad virtual con Unity 3D.
